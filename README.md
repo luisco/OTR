@@ -6,6 +6,10 @@ sage -python encryption.py
 sage -python authentication.py
 
 
-## Ejemplo
+## Ejemplos
 
 ![Encryp](assets/encry.png?raw=true "Encry")
+
+
+![Encryp](assets/auth.png?raw=true "Auth")
+
